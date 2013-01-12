@@ -1,3 +1,4 @@
+
 #   2B Şekil Tanıma
 
 .fx: first
@@ -15,6 +16,8 @@ Aralık 2012
 - birinci madde
 
 **canan**
+
+[![](http://www.amisosyazilim.com/wp-content/uploads/2012/11/Thumbnail2.jpg)](http://www.youtube.com/watch?v=PlyMn4fPstw&feature=plcp)
 
 
 ---
